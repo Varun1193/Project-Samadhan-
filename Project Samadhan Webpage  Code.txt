@@ -1,0 +1,523 @@
+<!doctype html>
+<html>
+<head>
+<title>
+PROJECT REPORT
+</title>
+<script>
+alert("There is always a SAMADHAN for every problem");
+</script>
+<style>
+
+p.quote
+{
+font-family:arca majora 3 heavy;
+font-size:30px;
+color:blue;
+text-align:center;
+padding-bottom:0px;
+}
+p.end
+{
+background-color:rgb(55,255,255);
+font-size:15px;
+margin-right:20px;
+}
+
+h1
+{
+font-size:100px;
+font-family:helvetica;
+text-align:center;
+background-color:yellow;
+font-color:black;
+cursor:drag;
+border-width:3px;
+border-color:black;
+border-style:solid;
+}
+body
+{
+margin-left:30px;
+margin-right:30px;
+border-width:2px;
+border-color:black;
+}
+
+p.Throwback
+{
+font-style:futura;
+font-size:40px;
+background-color:rgb(55,255,255);
+color:blue;
+
+}
+p.vote
+{
+font-style:futura;
+font-size:40px;
+background-color:rgb(55,255,255);
+color:blue;
+
+}
+p.team
+{
+font-style:futura;
+font-size:40px;
+background-color:rgb(55,255,255);
+color:blue;
+
+}
+p.motivation
+{
+font-style:futura;
+font-size:40px;
+background-color:rgb(55,255,255);
+color:blue;
+
+}
+p.sale
+{
+font-style:futura;
+font-size:40px;
+background-color:rgb(55,255,255);
+color:blue;
+
+}
+p.vendor
+{
+font-style:futura;
+font-size:40px;
+background-color:rgb(55,255,255);
+color:blue;
+
+}
+p.tshirt
+{
+font-style:futura;
+font-size:40px;
+background-color:rgb(55,255,255);
+color:blue;
+
+}
+
+p.name:hover
+{
+color:blue;
+font-size:40px;
+cursor:pointer;
+
+}
+
+p.did
+{
+font-style:futura;
+font-size:40px;
+background-color:rgb(55,255,255);
+color:blue;
+
+}
+
+
+fieldset
+{
+background-color:#ccc;
+padding:15px;
+border:3px solid blue;
+border-radius:10px;
+margin-bottom:20px;
+}
+
+
+
+
+
+.legend
+{
+font-size:20px;
+}
+
+p.moto
+{
+font-size:25px;
+color:red;
+text-align:center;
+}
+
+
+
+
+
+ul
+{
+font-size:25px;
+}
+
+div.index
+{
+color:red;
+font-size:20px;
+}
+
+
+
+p.motivation1
+{
+font-size:20px;
+font-style:cambria;
+text-align:justify;
+}
+p.sale1
+{
+font-size:20px;
+font-style:cambria;
+text-align:justify;
+}
+p.throwback
+{
+font-size:20px;
+font-style:cambria;
+text-align:justify;
+}
+p.introduction
+{
+font-size:20px;
+font-style:cambria;
+text-align:justify;
+}
+p.intro2
+{
+font-size:20px;
+font-style:cambria;
+text-align:justify;
+}
+p.intro2
+{
+font-size:20px;
+font-style:cambria;
+text-align:justify;
+}
+p.did1
+{
+font-size:20px;
+font-style:cambria;
+text-align:justify;
+}
+p.get3
+{
+font-size:20px;
+font-style:cambria;
+text-align:justify;
+}
+
+p.saying
+{
+font-family:garamond;
+font-size:25px;
+color:red;
+text-align:center;
+padding-bottom:0px;
+}
+
+p.news
+{
+font-size:20px;
+font-family:helvetica;
+
+}
+p.sale2:hover
+{
+font-size:30px;
+color:red;
+background-color:yellow;
+}
+
+.img:hover img{
+    
+     transform:scale(1.25);
+cursor:pointer;
+border-width:5px;
+border-color:black;
+}
+p.name
+{
+color:red;font-size:22;
+}
+p.writer
+{
+padding-top:0px;
+font-family:brush script MT;
+margin-left:1200px;
+font-size:20px;
+}
+li:hover
+{
+font-size:30px;
+}
+
+a:hover
+{
+color:red;
+}
+.img img:hover
+{
+width:500px;
+height:460px;
+}
+
+
+p.moto:hover
+{
+color:blue;
+
+font-size:30px;
+}
+
+.moto p
+{
+transition:transform .5s ease;
+}
+
+.moto p:hover
+{
+
+color:red;
+text-style:underline;
+font-size:40px;
+background-color:rgb(255,204,255);
+}
+
+img.3
+{
+border-width:2px;
+border-color:black;
+border-style:solid;
+}
+
+img.img
+{
+margin-left:10px;
+margin-right:10px;
+border-width:2px;
+border-style:solid;
+border-color:black;
+}
+p
+{
+font-style:helvetica;
+font-size:25px;
+}
+p.saying:hover
+{
+font-size:40px;
+color:blue;
+}
+
+
+
+p.profit
+{
+font-size:20px;
+color:black;
+}
+p.profit:hover
+{
+font-size:25px;
+color:red;
+background-color:yellow;
+}
+
+
+
+p.intro2
+{
+font-size:20px;
+font-style:cambria;
+text-align:justify;
+}
+p.vote1
+{
+font-size:20px;
+font-style:cambria;
+text-align:justify;
+}
+p.introduction
+{
+font-size:20px;
+font-style:cambria;
+text-align:justify;
+}
+
+</style>
+</head>
+<body>
+<a name="start"></a>
+<h1>PROJECT &nbsp SAMADHAN</h1>
+<div class="moto">
+<p class="quote">
+"A kind gesture can reach wound that only  compasion can heal"</p></div>
+<p class="writer">-Steve Marabol</p>
+
+
+<p class="introduction">
+Helping others allows you to change someone's life and improve your own. That too during a natural calamity is much more significant.
+ Lending a helping hand can change the lives of many. This is what <span style="color:red">the motto of  NSS says</span>
+</p>
+<div id="moto">
+<p class="moto">
+<b>"NOT ME, BUT YOU"</b>
+</p>
+</div>
+<p class="intro2">
+This is what we did in this project. With a noble objective in mind along with proper utilization of available resources and technology
+ we were able to raise funds and contribute to the gentle restabilization and recovery of flood victims.</p>
+
+
+<fieldset>
+
+<legend><p>Index</p></legend>
+
+<ul>
+<li><a href="#throwback">Throwback</a></li>
+<li><a href="#motivation">Motivation</a></li>
+<li><a href="#what we did">What we did?</a></li>
+<li><a href="#team.task">Team and task alloted</a></li>
+<li><a href="#design.price">Tshirt design</a></li>
+<li><a href="#vendor">Vendor and Price</a></li>
+<li><a href="#sale">Total sale and net profit</a></li>
+
+<li><a href="#vote">Vote of thanks!!</a></li>
+</ul>
+</fieldset>
+<a name="throwback"><p class="Throwback">THROWBACK</p></br></a>
+
+<img class="3" src="a.jpg" width="500" height="420">
+<img class="3" src="b.jpg" width="500" height="420">
+<img class="3" src="c.jpg" width="500" height="420">
+
+
+<p class="throwback">
+More than 300 villages, mainly in Punjab's Ropar, Jalandhar and Ferozepur districts, were lamentably affected in floods by the Satluj 
+river, damaging crops in thousands of acres and coercing thousands of villagers to spend nights on rooftops. Hit by one of the worst floods 
+in the district in the last three decenniums, IIT-Ropar in Rupnagar, Punjab faced a true test of its grit. IIT-Ropar, which is situated
+ near the banks of the Sutlej was the worst hit by the floods. Albeit the waters of Sutlej did not reach the campus, it was flooded by the rivulets
+ Bhudki and Sangraon, which flow on the south-western side of the IIT campus. The frequent relinquishment of water from Bhakra had even worsened the
+ situation. The campus and the nearby areas were submerged by the evening of 18th August. The water kept on entering the area and the situation became even
+ worse. The campus was evacuated by 19th morning. The villages around the campus were submerged. Thousands of villagers were left homeless. Everything they 
+possessed was gone. Our institution stood with them and availed those people in all aspect. They were given place in our beas hostel and the pabulum and 
+medical accommodation were provided to them. The entire IIT fraternity stood together and had tackled this situation very intrepidly and was able to 
+instaurate at an unbelievable pace.
+
+</p>
+<p class="news"><b>NEWS LINKS</b></p>
+<ul>
+<li>
+<p class="tribune"><a href="https://www.tribuneindia.com/news/punjab/flood-fury-in-ropar-alone-46-300-hit-rs-152-cr-loss/825940.html">THE TRIBUNE</a></p></li>
+
+<li>
+<p class="times"><a href="https://timesofindia.indiatimes.com/city/chandigarh/ropar-villages-inundated-in-floods-after-bhakhra-releases-water/articleshow/70720054.cms">
+INDIA TIMES</a></p></li>
+<li><p class="today"><a href="https://www.indiatoday.in/india/story/punjab-rains-over-300-villages-badly-affected-floods-1588042-2019-08-21">INDIA TODAY</a></p></li>
+</ul>
+<p><a href="#start">back to top</a></p>
+<a name="motivation">
+<p class="motivation">MOTIVATION</p>
+
+
+<p class="get3">
+There is a famous saying which goes as</p>
+<p class="saying"><b><u>"The Secret to Happiness Is Helping Others"</u></b></p>
+<p class="motivation1">And it is indeed true. Those people had lost their livelihood, their domicile, their belongings everything. We were fortuitous 
+enough to recover expeditiously from this tragedy anon but they were not. Without any support, their life would have turned out very miserable. If
+ someone is capable enough to avail someone, then he should. That's what we did. The most immensely colossal avail they required were monetary assistance.  With a noble conception and a unique approach, we were able to raise funds and contribute to the rehabilitation of those people.</p>
+<p><a href="#start">back to top</a></p>
+<p><a name="what we did"><p class="did">WHAT WE DID?</p></a>
+<p class="did1">To help those people, we need a source through which we can earn money. So, we decided to design a tshirt that we will sell to the IIT
+ fraternity. This tshirt will be designed by the students themselves, the whole fabrication and availability will be taken care by the group itself. And whatever profit we will make from the sale, will handover the same to the needy.
+</p>
+<p><a href="#start">back to top</a></p>
+
+<p class="team"><a name="team.task">TEAM AND TASK ALLOTED</a></p>
+<ul>
+<li><p class="name"><span style="color:black">Varun Sharma </span><br>
+Entry no: &nbsp2018eeb1193<br>
+Task Alloted: &nbspWebpage Designing and Data collection</p><br>
+</li>
+<li><p class="name"><span style="color:black">Tarun Garg</span><br>
+Entry no:&nbsp2018eeb1188<br>
+Task alloted:&nbspOverall coordinator and money collection</p><br>
+</li>
+<li><p class="name"><span style="color:black">Ashutosh Garg</span><br>
+Entry no:<br>
+Task alloted:&nbspTshirt designer and Overall Coordination</p><br>
+</li>
+<li><p class="name"><span style="color:black">Shivank Sharma</span><br>
+Entry no:<br>
+Task alloted:Report Making<br></p>
+</li>
+<li><p class="name"><span style="color:black">Tanmay Rai</span><br>
+Entry no:2018eeb1189<br>
+Task alloted:Money Collection from Sutlej Hostel and Tshirt Distribution <br></p>
+</li>
+<li><p class="name"><span style="color:black">Sujeet Kumar</span><br>
+Entry no:2018eeb1184<br>
+Task alloted:Money Collection from Sutlej Hostel and Tshirt Distribution<br></p>
+</li>
+<li><p class="name"><span style="color:black">Sagar Gupta</span><br>
+Entry no:2018eeb1176<br>
+Task alloted:Money collection from Chenab West<br></p>
+</li>
+<li><p class="name"><span style="color:black">Shivam Garg</span><br>
+Entry no:2018eeb1179<br>
+Task alloted:Money collection from Chenab West<br></p>
+</li>
+<li><p class="name"><span style="color:black">Zeyba Parwez</span><br>
+Entry no:2018eeb1197<br>
+Task alloted:Money collection from Ravi<br></p>
+</li>
+<li><p class="name"><span style="color:black">Parth Joshi</span><br>
+Entry no:<br>
+Task alloted:Money collection from Sutlej<br></p>
+</li>
+<li><p class="name"><span style="color:black">Mohit Singhal</span><br>
+Entry no:<br>
+Task alloted:<br></p>
+</li>
+<li><p class="name"><span style="color:black">Shubham Sahu</span><br>
+Entry no:2018eeb1183<br>
+Task alloted:Money Collection from Beas Hostel<br></p>
+</li>
+<li><p class="name"><span style="color:black">Taneesh</span><br>
+Entry no:<br>
+Task alloted:<br></p>
+</li>
+</ul>
+<p><a href="#start">back to top</a></p>
+<p class="tshirt"><a name="design.price">TSHIRT DESIGN</a></p>
+<p class="design">Here is the tshirt designed by our group . <br><br>
+<div class="img">
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img class="img" src="p.jpg" width="440" height="380">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img class="img" src="w.jpg" width="440" height="380"></div></br><p class="get3">We provided two options in color. Blue and White. </p>
+<p><a href="#start">back to top</a></p>
+<p class="vendor"><a name="vendor">VENDOR AND PRICE</a></p>
+
+<p class="get3">The vendor for the tshirts were <span style="color:red"><b>LAYYON INDIA</b></span> </p>
+
+<p class="get3"><a href="https://www.facebook.com/layyonindia/posts/2217524861690228">Click to know more about LAYYON INDIA</a></p><br>
+<p class="sale2"><span style="color:blue">THE PRICE OF  TSHIRT IS </span><span style="color:red"><b><u>280/-</u></b></span></p><br>
+<p class="get3"><span style="color:blue">Quality of t-Shirt:<br>
+Super Combed - 100% Pima Cotton - Elite - Mercerized <br>
+200+ GSM </span></p>
+<p><a href="#start">back to top</a></p>
+<p class="sale"><a name="sale">TOTAL SALE AND PROFIT</a></p>
+<p class="sale1">Here goes the link for the spreasheet containing the details of the customers.</p></br>
+<p class="sale1"><a href="https://docs.google.com/spreadsheets/d/1d60g7uWWFQsCRNx8dSDEQ3hxdxFkIBXPiQPMCIepXHo/edit?usp=sharing">Click to view spreadsheet</a></p>
+<p class="sale2">The profit per tshirt was<span style="color:blue"><b><u> 75/-</b></u><span><br>
+We sold in total of <span style="color:blue"><u><b>109<span> such tshirts.</b></u></br>
+<p class="profit">The total profit that we made was <b><span style="color:red">8175/- INR</span></b>
+<p><a href="#start">back to top</a></p>
+<p class="vote"><a name="vote">VOTE OF THANKS!!</a></p>
+<p class="vote1">We would like to express our greatest gratitude towards the entire IIT Fraternity for supporting us to make this project a huge success. Also we would like to thank NSS team for supporting us at every step. And all the other members involved in this, without you all this task would not have been possible.</p>
+<p class="end">.<br>.<br>.<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp@Varun Sharma</p>
+</body>
+</html>
